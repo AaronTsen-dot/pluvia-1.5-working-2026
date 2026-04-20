@@ -34,15 +34,6 @@ Put the iPhone 4 in DFU mode, then run:
 
 - This project currently targets `iPhone3,1`
 - Supported firmware range in this working copy is iOS 5.1.1 (`9B206`), 6.x, and 7.x
-- During verification on Mojave, the working `tools/ipsw` binary matched the stable `tools/ipsw.prebuilt` copy
-- The second Cydia launch after "Preparing Filesystem" may crash on supported jailbreak flows; rebooting the device resolves it
-
-## Do Not Upload
-
-- Apple IPSW files
-- SHSH blobs
-- Generated `work/` contents
-- Device-specific logs or artifacts
 
 ## Credits
 

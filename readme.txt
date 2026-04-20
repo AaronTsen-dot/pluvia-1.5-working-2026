@@ -47,3 +47,4 @@ libimobiledevice and @tihmstar for idevicerestore
 @ih8sn0w, @NyanSatan, and @Merculous for iBoot32Patcher
 @tihmstar and @encounter for tsschecker
 @sequinn and @parrotgeek1 for root_tar
+@AaronTsen-dot help to fixbug

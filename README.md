@@ -1,4 +1,4 @@
-# Pluvia 1.5 Working Copy
+# Pluvia 1.5 Working 2026
 
 Verified working Pluvia 1.5 setup for iPhone 4 (`iPhone3,1`), including iOS 5.1.1 patched IPSW creation and restore notes for an Intel-based Mac running macOS Mojave 10.14.6.
 
@@ -9,6 +9,8 @@ Verified working Pluvia 1.5 setup for iPhone 4 (`iPhone3,1`), including iOS 5.1.
 - Tested on an Intel Mac running macOS Mojave 10.14.6
 
 ## Usage
+
+cd this Folder
 
 ### Create a patched IPSW
 
